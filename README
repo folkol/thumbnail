@@ -1,0 +1,2 @@
+javac Thumbnail.java
+java Thumbnail filename.jps
