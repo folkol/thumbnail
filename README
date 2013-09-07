@@ -1,2 +1,2 @@
 javac Thumbnail.java
-java Thumbnail filename.jps
+java Thumbnail filename.jpg
